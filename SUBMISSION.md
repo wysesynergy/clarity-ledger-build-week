@@ -62,3 +62,7 @@ For a private repository, invite both required reviewer addresses:
 ## Privacy hold
 
 Do not upload TCFTC, Recovery Solutions, client, employee, tax, healthcare, legal, or Wyse Synergy internal source material to this demo repository.
+## Submission links
+
+- Public demo: https://wysesynergy.github.io/clarity-ledger-build-week/
+- Public repository: https://github.com/wysesynergy/clarity-ledger-build-week

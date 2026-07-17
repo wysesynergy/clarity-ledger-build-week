@@ -1,6 +1,6 @@
 # Clarity Ledger
 
-**Every instruction has a source. Every conflict has a trail.**
+**Every instruction has a source. Every conflict has a trail.**`r`n`r`nPublic demo: https://wysesynergy.github.io/clarity-ledger-build-week/
 
 Clarity Ledger is an AI evidence and contradiction workbench for teams whose policies, memos, email updates, checklists, and chat guidance do not always agree. It creates a dated source register, highlights contradiction candidates, drafts decision-ready clarification questions, and separates safe automation opportunities from actions that must remain under human control.
 
